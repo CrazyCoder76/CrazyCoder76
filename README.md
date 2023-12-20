@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Crazy Coder
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Dev Master
 ======================================================================================================================================
 
 Software Engineer
@@ -6,7 +6,6 @@ Software Engineer
 
 I'm a versatile Full Stack Engineer and AI Engineer
 
-*   🌍  I'm based in Woodway
 *   ✉️  You can contact me at [gang.expert.99@gmail.com](mailto:gang.expert.99@gmail.com)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on AI projects
