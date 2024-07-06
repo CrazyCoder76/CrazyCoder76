@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange" alt="Open to: Collaboration">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CrazyCoder76&theme=darkhub&no-frame=true&row=1&column=7" alt="CrazyCoder76's trophies" />
-  </a>
-</p>
-
 I'm a versatile Full Stack Engineer and AI Engineer, passionate about creating innovative solutions and pushing the boundaries of technology. With a diverse skill set spanning multiple programming languages and frameworks, I thrive on challenges and continuous learning.
 
 ## 🚀 What I'm Up To
