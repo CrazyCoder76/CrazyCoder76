@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange" alt="Open to: Collaboration">
 </p>
 
-I'm a versatile Full Stack Engineer and AI Engineer, passionate about creating innovative solutions and pushing the boundaries of technology. With a diverse skill set spanning multiple programming languages and frameworks, I thrive on challenges and continuous learning.
+I'm a Senior AI Engineer with extensive experience designing and building production-grade AI-powered applications, distributed systems, and cloud-native platforms. Expertise in integrating Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG), and enterprise APIs into scalable software solutions. Strong background in backend architecture, event-driven systems, cloud infrastructure, and developer platforms. Proven ability to lead technical initiatives from architecture through production deployment while delivering reliable, secure, and high-performance systems. Passionate about applying AI to solve complex business problems through robust engineering, modern cloud infrastructure, and scalable software design.
 
 ## 🚀 What I'm Up To
 
