@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> Hello Gang, I'm Crazy Coder</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> Hello, I'm an engineer who loves building AI products and open-source software.</h1>
 
-<h3 align="center">Full Stack Engineer | AI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Senior AI Engineer | Distributed Systems | Cloud | Open Source</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrazyCoder76&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -37,22 +37,6 @@ I'm a Senior AI Engineer with extensive experience designing and building produc
   <img src="https://skillicons.dev/icons?i=go" alt="icon" height="65" />
 </p>
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="icon" height="65" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="icon" height="65" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" height="65" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="icon" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" height="65" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-</p>
-
 <h3>Backend & Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" height="65" />
@@ -70,6 +54,23 @@ I'm a Senior AI Engineer with extensive experience designing and building produc
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=redis" alt="icon" height="65" />
 </p>
+
+<h3>Frontend</h3>
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="icon" height="65" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="icon" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" height="65" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="icon" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" height="65" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+</p>
+
 
 <h3>DevOps & Cloud</h3>
 <p>
@@ -126,11 +127,11 @@ A responsive web application providing real-time insights and visualizations for
 </p>
 </details>
 
-## 📫 Let's Connect!
+<!-- ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration. Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-gang.expert.99%40gmail.com-blue)](mailto:gang.expert.99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gang.expert.99%40gmail.com-blue)](mailto:gang.expert.99@gmail.com) -->
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">GitHub Statistics
